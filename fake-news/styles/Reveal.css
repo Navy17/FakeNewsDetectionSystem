@@ -1,0 +1,9 @@
+.Reveal-container{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+    padding: 20% 33%;
+    background-color: black;
+    color: white;
+}
